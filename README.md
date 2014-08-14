@@ -2,8 +2,6 @@
 
 A [Hubot](https://github.com/github/hubot) plugin to tell you what today's [The Melt](https://themelt.com/) special is.
 
-What's today The Melt special?
-
 ### Usage
 
     hubot melt - Pulls today's The Melt special
