@@ -1,6 +1,6 @@
 {
   "name": "hubot-themelt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jon Ursenbach <jon@ursenba.ch>",
   "description": "A Hubot plugin to tell you what today's The Melt special is.",
   "keywords": [
